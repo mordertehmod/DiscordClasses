@@ -332,6 +332,7 @@
     "bV": "iconMentionText_b75563"
   },
   "13499": {
+    "K4": "checkoutFooterPortal_ebbc17",
     "bI": "countryFlagEmoji_ebbc17"
   },
   "13600": {
@@ -616,17 +617,23 @@
     "NW": "type__675f9 logo__675f9"
   },
   "23373": {
+    "G9": "progressBarContainer_e5e85f",
+    "TN": "fillBar_e5e85f",
+    "UA": "fillBarWhite_e5e85f",
     "jD": "cont_e5e85f",
     "KF": "hitboxArea_e5e85f",
     "uc": "interactionEnabled_e5e85f",
-    "qB": "progress_e5e85f",
     "pN": "progressGlow_e5e85f",
     "r": "buffer_e5e85f",
     "YK": "seekableBar_e5e85f",
     "Ey": "timeDisplay_e5e85f",
     "Ub": "grabber_e5e85f",
     "Fv": "roundedV1_e5e85f",
-    "KR": "roundedV2_e5e85f"
+    "KR": "roundedV2_e5e85f",
+    "$v": "segmentWrapper_e5e85f",
+    "WJ": "segmentBufferClip_e5e85f",
+    "Bw": "segmentBufferContent_e5e85f",
+    "DT": "glowBar_e5e85f"
   },
   "23456": {
     "kL": "container_c66e86",
@@ -667,6 +674,10 @@
     "vk": "clickable_efa868",
     "P8": "clickableHover_efa868",
     "Kk": "icon_efa868"
+  },
+  "25327": {
+    "w": "header_feae96",
+    "Q": "questIcon_feae96"
   },
   "25470": {
     "kL": "container__14992",
@@ -2474,7 +2485,10 @@
   },
   "95610": {
     "o1": "actions__4cd01",
-    "IF": "panelButtonContainer__4cd01"
+    "IF": "panelButtonContainer__4cd01",
+    "Li": "shineWipe__4cd01",
+    "uD": "panelButtonShineWipeContainer__4cd01",
+    "Z9": "panelButtonShineWipe__4cd01"
   },
   "96373": {
     "iE": "wrapper_f7a803",
@@ -2986,6 +3000,11 @@
     "Qs": "content__3fde7",
     "Kk": "icon__3fde7",
     "gS": "clipIcon__3fde7 icon__3fde7"
+  },
+  "114855": {
+    "Fx": "itemIcon_a647f7",
+    "Y_": "hasTooltip_a647f7",
+    "In": "applicationIcon_a647f7"
   },
   "116170": {
     "Kk": "icon_d2d51d",
@@ -4058,9 +4077,6 @@
     "z8": "cardBenefitIcon_bb8774",
     "xl": "benefitsSummary_bb8774"
   },
-  "159622": {
-    "MK": "menu__77820"
-  },
   "160239": {
     "sW": "marginContainer_d4883c",
     "Yj": "gradientContainer_d4883c",
@@ -4849,6 +4865,7 @@
     "R_": "heading_f2af23",
     "Lq": "filterTabs_f2af23",
     "IC": "filterTab_f2af23",
+    "jG": "scrollContainer_f2af23",
     "Nr": "card_f2af23"
   },
   "186413": {
@@ -5013,10 +5030,10 @@
     "P3": "subscriptionDetailsContainer_bb5449",
     "ZF": "invoiceSummaryContainer_bb5449",
     "Jv": "paymentMethodContainer_bb5449",
-    "sy": "stepBodyMinHeight_bb5449",
     "dD": "checkoutInlineNoticeContainer_bb5449",
     "g4": "loadingContainer_bb5449",
     "KX": "giftRedemptionLink_bb5449",
+    "Je": "spinnerColor_bb5449",
     "NR": "totalDueReviewStep_bb5449",
     "uh": "promotionalNoticeContainer_bb5449"
   },
@@ -5508,7 +5525,8 @@
     "NK": "transitionGroup__4cb8a"
   },
   "211936": {
-    "OO": "sliderBody_c6f1a4"
+    "OO": "sliderBody_c6f1a4",
+    "Wq": "sliderBodyUnifiedReviewStep_c6f1a4"
   },
   "211980": {
     "Q": "content__444a0"
@@ -6494,6 +6512,10 @@
     "a8": "gameImageBackground_a3ec8a",
     "mO": "gameName_a3ec8a"
   },
+  "242859": {
+    "x": "button__11ddb",
+    "t": "ctaInner__11ddb"
+  },
   "243486": {
     "zr": "root__2f580",
     "Lq": "loading__2f580",
@@ -6799,7 +6821,7 @@
     "wP": "cardImage__20585",
     "Fx": "itemIcon__20585",
     "Be": "itemIconHeart__20585",
-    "aP": "itemIconHeartWhite__20585",
+    "e_": "itemIconHeartGreyscale__20585",
     "rY": "itemIconShop__20585"
   },
   "252956": {
@@ -7499,9 +7521,6 @@
   },
   "281258": {
     "j": "overflow_b0dfc2"
-  },
-  "281491": {
-    "k": "orbUnifiedReviewStepBody_a22556"
   },
   "281568": {
     "Ky": "gameProfileMedia_a1cc72",
@@ -9474,8 +9493,9 @@
     "Ui": "cardContainer_cf5b44",
     "Nr": "card_cf5b44",
     "Io": "pill_cf5b44",
-    "kA": "delayedLineClamp_cf5b44",
+    "Wi": "descriptionWrapper_cf5b44",
     "h_": "description_cf5b44",
+    "XV": "descriptionClamped_cf5b44",
     "j8": "featured_cf5b44",
     "Cj": "ctaPlaceholder_cf5b44",
     "yk": "ctaButtonWrapper_cf5b44",
@@ -12688,8 +12708,7 @@
     "XD": "activityStatusText__972a0",
     "G$": "decorator__972a0",
     "dm": "dm__972a0",
-    "KQ": "waveButton__972a0",
-    "BD": "waveSticker__972a0"
+    "KQ": "waveButton__972a0"
   },
   "477943": {
     "Q": "content_c7fee2"
@@ -13422,6 +13441,9 @@
     "l$": "giftAnimation__9baf3",
     "hT": "bundlePreview__9baf3",
     "dc": "spinnerContainer__9baf3"
+  },
+  "504743": {
+    "$": "purchaseItemGraphic__2455b"
   },
   "505295": {
     "N": "card__896d4",
@@ -14710,7 +14732,6 @@
     "nr": "headerIcon_da8ac7",
     "zH": "details_da8ac7",
     "Qq": "text_da8ac7",
-    "Qy": "giftMessage_da8ac7",
     "s": "giftAvatar_da8ac7",
     "p6": "priceContainer_da8ac7",
     "nw": "currentPrice_da8ac7",
@@ -19824,6 +19845,12 @@
     "sJ": "widgetPreviews__7f9c0",
     "vS": "wishlistBreadcrumb__7f9c0"
   },
+  "750813": {
+    "QR": "fillBarGreen_b256a2",
+    "UA": "fillBarWhite_b256a2",
+    "Um": "progressGlowGreen_b256a2",
+    "U5": "progressGlowWhite_b256a2"
+  },
   "751102": {
     "w": "linkIcon_a4b5f8",
     "q": "rowContainer_a4b5f8"
@@ -20963,6 +20990,12 @@
     "eF": "userInfo__2bb83",
     "o1": "actions__2bb83"
   },
+  "797882": {
+    "CP": "imagesContainer__0efd3",
+    "es": "appIconContainer__0efd3",
+    "Qf": "questIcon__0efd3",
+    "tE": "rewardTileContainer__0efd3"
+  },
   "798085": {
     "cB": "dragging_f7c056",
     "XQ": "draggableInputContainer_f7c056",
@@ -21726,6 +21759,14 @@
   "828012": {
     "k": "container__4d63b"
   },
+  "828080": {
+    "ck": "rewardIndicatorContainer__27539",
+    "a": "rewardIndicatorContainerGreenFill__27539",
+    "C9": "rewardIndicatorContainerWhiteFill__27539",
+    "E6": "rewardIconWrapper__27539",
+    "Ru": "rewardTooltip__27539",
+    "AE": "rewardTooltipDivider__27539"
+  },
   "828225": {
     "Yb": "paymentSourceRow__0eeee",
     "zy": "giftCardRowRight__0eeee",
@@ -22295,11 +22336,8 @@
     "x6": "button_caee69"
   },
   "859457": {
-    "kL": "container__96168",
-    "Ui": "cardContainer__96168",
-    "RL": "contextContainer__96168",
-    "fd": "contextIcon__96168",
-    "I$": "fireIcon__96168"
+    "k": "container__96168",
+    "U": "cardContainer__96168"
   },
   "859588": {
     "U": "buttonContainer__6ca73"
@@ -24042,6 +24080,9 @@
   "930625": {
     "Z": "taskPresetSelect_a8dbb2"
   },
+  "930720": {
+    "a": "slayerProductPreview_a9f4c8"
+  },
   "930821": {
     "nd": "panel_fe7ab2",
     "wx": "header_fe7ab2",
@@ -24293,6 +24334,7 @@
   },
   "940480": {
     "Fx": "itemIcon_d9866f",
+    "Y_": "hasTooltip_d9866f",
     "Be": "itemIconHeart_d9866f",
     "rY": "itemIconShop_d9866f"
   },
@@ -25249,7 +25291,7 @@
     "Lw": "overlay__39b32",
     "Fx": "itemIcon__39b32",
     "Be": "itemIconHeart__39b32",
-    "aP": "itemIconHeartWhite__39b32",
+    "e_": "itemIconHeartGreyscale__39b32",
     "rY": "itemIconShop__39b32",
     "Do": "placeholderPulse__39b32",
     "Yf": "placeholderCard__39b32",
