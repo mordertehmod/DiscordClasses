@@ -117,8 +117,7 @@
   "6022": {
     "NC": "buttonsContainer__89253",
     "DT": "removeButton__89253",
-    "yj": "buttonHighlighted__89253",
-    "J_": "overrideButtonsContainer__89253"
+    "yj": "buttonHighlighted__89253"
   },
   "6211": {
     "zr": "root_da9de7",
@@ -1176,7 +1175,6 @@
   },
   "43557": {
     "B_": "applicationDetails__94ab2",
-    "pN": "noPadding__94ab2",
     "f_": "entry__94ab2",
     "u7": "entryIcon__94ab2",
     "z9": "entryInner__94ab2"
@@ -3317,7 +3315,6 @@
     "gC": "headerTextContainerV2__50a54",
     "TD": "appDetailsContainer__50a54",
     "Nm": "appDetailsSection__50a54",
-    "LS": "directMessagesSection__50a54",
     "gF": "appDetailsSectionHeader__50a54",
     "vo": "appDetailsContent__50a54",
     "zN": "appAvatarV2__50a54",
@@ -3334,7 +3331,6 @@
     "Dt": "tos__50a54",
     "Fb": "privacy__50a54",
     "X6": "externalLinkIcon__50a54",
-    "WZ": "dmSettingsHeader__50a54",
     "yF": "divider__50a54",
     "qr": "footer__50a54",
     "hU": "deauthorizeButton__50a54",
@@ -11889,8 +11885,7 @@
     "pN": "noPadding__3d3b0",
     "cw": "contentBackground__3d3b0",
     "sL": "intObserver__3d3b0",
-    "ah": "deepLinkContainer__3d3b0",
-    "_j": "mobilePushContainer__3d3b0"
+    "ah": "deepLinkContainer__3d3b0"
   },
   "444175": {
     "kL": "container_df91b4",
@@ -16326,10 +16321,6 @@
     "wH": "selected_f391e3",
     "wZ": "siblingSelected_f391e3",
     "sg": "titleDivider_f391e3"
-  },
-  "608696": {
-    "r": "mainContainer__844a1",
-    "o": "compact__844a1"
   },
   "609132": {
     "a": "box_f8c98c"
