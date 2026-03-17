@@ -3581,8 +3581,10 @@
     "--mobile-input-field-text-style-sm": "text-xs/medium",
     "--mobile-messages-header-button-gap": "8px",
     "--mobile-messages-header-button-layout": "row",
+    "--mobile-messages-header-padding-bottom": "16px",
     "--mobile-messages-item-channel-avatar-size": "32px",
     "--mobile-messages-item-channel-name-text-style": "redesign/channel-title/semibold",
+    "--mobile-messages-item-happening-now-padding-bottom": "8px",
     "--mobile-segmented-control-border-radius": "16px",
     "--mobile-settings-padding-top": "16px",
     "--mobile-tab-bar-unread-badge-size": "22px",
@@ -4130,6 +4132,7 @@
     "--card-primary-pressed-bg": "var(--primary-645)",
     "--card-secondary-bg": "hsl(var(--opacity-8-hsl)/0.0784313725490196)",
     "--card-secondary-pressed-bg": "var(--primary-645)",
+    "--channel-background-default": "var(--neutral-69)",
     "--channel-icon": "var(--neutral-28)",
     "--channel-text-area-placeholder": "var(--primary-430)",
     "--channels-default": "var(--neutral-28)",
@@ -4658,6 +4661,7 @@
     "--card-primary-pressed-bg": "var(--primary-160)",
     "--card-secondary-bg": "hsl(var(--opacity-12-hsl)/0.12156862745098039)",
     "--card-secondary-pressed-bg": "var(--primary-160)",
+    "--channel-background-default": "var(--neutral-2)",
     "--channel-icon": "var(--neutral-43)",
     "--channel-text-area-placeholder": "var(--primary-400)",
     "--channels-default": "var(--neutral-43)",
@@ -5733,6 +5737,7 @@
     "--card-primary-pressed-bg": "var(--plum-25)",
     "--card-secondary-bg": "hsl(var(--opacity-12-hsl)/0.12156862745098039)",
     "--card-secondary-pressed-bg": "var(--plum-26)",
+    "--channel-background-default": "var(--neutral-97)",
     "--channel-icon": "var(--neutral-37)",
     "--channel-text-area-placeholder": "var(--plum-11)",
     "--channels-default": "var(--neutral-37)",
@@ -6230,6 +6235,7 @@
     "--card-primary-pressed-bg": "var(--plum-19)",
     "--card-secondary-bg": "hsl(var(--opacity-8-hsl)/0.0784313725490196)",
     "--card-secondary-pressed-bg": "var(--plum-21)",
+    "--channel-background-default": "var(--neutral-86)",
     "--channel-icon": "var(--neutral-35)",
     "--channel-text-area-placeholder": "var(--plum-11)",
     "--channels-default": "var(--neutral-35)",
@@ -8045,8 +8051,10 @@
     "--mobile-input-field-text-style-sm": "text-xs/normal",
     "--mobile-messages-header-button-gap": "12px",
     "--mobile-messages-header-button-layout": "row-reverse",
+    "--mobile-messages-header-padding-bottom": "12px",
     "--mobile-messages-item-channel-avatar-size": "40px",
     "--mobile-messages-item-channel-name-text-style": "text-md/semibold",
+    "--mobile-messages-item-happening-now-padding-bottom": "16px",
     "--mobile-segmented-control-border-radius": "8px",
     "--mobile-settings-padding-top": "24px",
     "--mobile-tab-bar-unread-badge-size": "12px",
@@ -8628,6 +8636,16 @@
   ".container__81040": {
     "--custom-spacing": "12px"
   },
+  ".timeline__7dce2": {
+    "--__trimmer-height": "72px",
+    "--__playhead-offset": "3px",
+    "--__playhead-width": "6px",
+    "--__handle-width": "16px",
+    "--__handle-transition-duration": "500ms"
+  },
+  ".container_cf0b5e": {
+    "--__trimmer-height": "72px"
+  },
   ".extras__58ece": {
     "--custom-offset": "0"
   },
@@ -8644,23 +8662,13 @@
   ".fade_c8f358": {
     "--custom-activity-popout-header-fade-width": "var(--space-16)"
   },
-  ".timeline__7dce2": {
-    "--__trimmer-height": "72px",
-    "--__playhead-offset": "3px",
-    "--__playhead-width": "6px",
-    "--__handle-width": "16px",
-    "--__handle-transition-duration": "500ms"
-  },
-  ".container_cf0b5e": {
-    "--__trimmer-height": "72px"
-  },
   ".messageInput__62280": {
     "--custom-channel-textarea-text-area-height": "38px"
   },
-  ".rewardIndicatorContainer__27539": {
+  ".rewardIndicatorContainer__225ba": {
     "--custom-stroke-width": "3px"
   },
-  ".rewardIndicatorContainerGreenFill__27539": {
+  ".rewardIndicatorContainerGreenFill__225ba": {
     "--custom-bottom-layer-color": "hsla(0,0%,100%,.4)",
     "--custom-transparent-bottom-color": "hsla(0,0%,100%,0)",
     "--custom-top-layer-color": "rgba(98,196,101,.75)",
