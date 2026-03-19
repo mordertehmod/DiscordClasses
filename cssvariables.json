@@ -8292,12 +8292,6 @@
     "--custom-placeholder-text-size": "12px",
     "--custom-placeholder-text-gap": "8px"
   },
-  ".addButtonContent__4a011": {
-    "--custom-option-add-button-padding": "16px"
-  },
-  ".addButtonContent__4a011.sizeSmall__4a011": {
-    "--custom-option-add-button-padding": "12px"
-  },
   ".container_ab64fd": {
     "--custom-widget-preview-width": "422px",
     "--custom-game-cover-width": "90px",
@@ -8307,6 +8301,12 @@
     "--custom-game-cover-width": "56px",
     "--custom-game-cover-height": "74px",
     "--custom-game-cover-grid-row-size": "6"
+  },
+  ".addButtonContent__4a011": {
+    "--custom-option-add-button-padding": "16px"
+  },
+  ".addButtonContent__4a011.sizeSmall__4a011": {
+    "--custom-option-add-button-padding": "12px"
   },
   ".tabBarItem__37bfc": {
     "--selected-tab-item-color": "var(--text-brand)"
@@ -8557,10 +8557,6 @@
   },
   ".badge__7ace6": {
     "--background-feedback-notification": "var(--brand-500)"
-  },
-  ".options__60a25": {
-    "--custom-game-cover-width": "72px",
-    "--custom-game-cover-height": "96px"
   },
   ".layoutContainer__9c3be": {
     "--custom-editing-panel-width": "240px"
